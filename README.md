@@ -21,6 +21,10 @@ Then create a DOM element which gonna contains the generated qrcode image. Lets 
 a div
 
     <div id="qrcode"></div>
+	
+or a img
+	
+	<img id="qrcode">
 
 Then you add the *qrcode* in this container by
 
